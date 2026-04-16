@@ -1,7 +1,6 @@
 name: CI (Vite React)
 
 on:
-  pull_request:
   push:
     branches: 
        - dev
