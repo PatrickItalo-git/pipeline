@@ -1,5 +1,4 @@
-name: CI (Vite React)
-
+name: TESTE
 on:
   push:
     branches: 
